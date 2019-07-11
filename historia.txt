@@ -2,4 +2,5 @@ Esta es la historia de Josue Cando
 Josué Cando tiene 22 anios y nació en Quito.
 Estudiante en Tecnología en Análisis de Sistemas Informáticos
 Experimento 1
-Master 1Master 2
+Master 1
+Master 2
